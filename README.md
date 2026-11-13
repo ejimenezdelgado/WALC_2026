@@ -34,8 +34,6 @@
 - Gitlab https://about.gitlab.com/
 - Chatgpt https://openai.com/blog/chatgpt
 
-- Repositorio del curso
-- https://gitlab.com/ejimenez/fiec_intro_machine_learning.git
 
 - Libros
 - Challenges in DeployingMachine Learning: a Survey of Case Studies
